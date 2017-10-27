@@ -1,2 +1,2 @@
-# Huffman-encoding-file-compression-
-This program will illustrate the usage of Huﬀman encoding, heaps, and priority queues. It will also require a good factoring design.
+# What the Program does?
+It is a File compressor/decompressor program using Huffman encoding algorithm.  
